@@ -30,12 +30,18 @@ header {
 
 /* Main-title */
 
-#Main-title {
+#Main-title > h1{
+    font-size: 40px;
+}
 
+#Main-title > p{
+    color: grey;
 }
 
 #The-Booleaner {
     color: #5CC0EC;
 }
+
+
 
 
