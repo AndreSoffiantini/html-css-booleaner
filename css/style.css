@@ -55,4 +55,19 @@ header {
     margin-bottom: 20px;
 }
 
+#central_table {
+    margin-top: 20px;
+}
 
+#central_table > thead{
+    color: white;
+    background: #20A9E5;
+}
+
+.azure-row {
+    background: #B1E5F2;
+}
+
+.final_column {
+    width: 50%;
+}
