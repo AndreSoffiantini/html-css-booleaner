@@ -35,8 +35,13 @@ header {
     font-size: 40px;
 }
 
-#Main-title > p{
+.subtitle{
     color: grey;
+    margin-bottom: 10px;
+}
+
+#article_date{
+    font-size: 13px;
 }
 
 #The-Booleaner {
